@@ -32,7 +32,7 @@ export class Stats extends Component {
                 "strategy_1": strategies[0]
             }
 
-            axios.post('http://localhost:5001/suggest', data)
+            axios.post('http://ec2-44-202-162-151.compute-1.amazonaws.com:5001/suggest', data)
                 .then(response => {
                     if (response.status === 200) {
                         this.setState({
@@ -54,7 +54,7 @@ export class Stats extends Component {
             }
 
 
-            axios.post('http://localhost:5001/suggest2', data)
+            axios.post('http://ec2-44-202-162-151.compute-1.amazonaws.com:5001/suggest2', data)
                 .then(response => {
                     if (response.status === 200) {
                         this.setState({
