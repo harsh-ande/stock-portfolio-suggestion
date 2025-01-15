@@ -75,9 +75,13 @@ The Stock Portfolio Suggestion Engine is a Python-based application designed to 
 ---
 
 ## **UI Screenshots**
+### **Home Page**
 ![Alt text](UI%20pictures/Home%20page.png "Home Page")
+### **Suggested Stocks**
 ![Alt text](UI%20pictures/Suggestions.png "Suggested Stocks")
+### **Stock 1 Trend**
 ![Alt text](UI%20pictures/Graph%201.png "Stock 1 Trend")
+### **Stock 2 Trend**
 ![Alt text](UI%20pictures/Graph%202.png "Stock 2 Trend")
 
 
