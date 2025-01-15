@@ -74,7 +74,11 @@ The Stock Portfolio Suggestion Engine is a Python-based application designed to 
 
 ---
 
-## **License**
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+## **UI Screenshots**
+![Alt text](UI%20pictures/Home%20page.png "Home Page")
+![Alt text](UI%20pictures/Suggestions.png "Suggested Stocks")
+![Alt text](UI%20pictures/Graph%201.png "Stock 1 Trend")
+![Alt text](UI%20pictures/Graph%202.png "Stock 2 Trend")
+
 
 --- 
